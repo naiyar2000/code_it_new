@@ -1,6 +1,6 @@
 
 
-<h3>FOR DEMO : https://partha2000.github.io/Code_it_2/</h3>
+<h3>FOR DEMO : https://naiyar2000.github.io/Code_it_2/</h3>
 ==================================================================================================
 
 
